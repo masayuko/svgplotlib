@@ -18,6 +18,8 @@ svg.Line(x1 = 0, y1 = 0., x2 = 150., y2 = 150., parent = g, stroke='red')
 svg.TEX(r'$\sum_{i=0}^\infty x_i$', x = 1, y = 50)
 }}}
 
+http://code.google.com/p/svgplotlib/source/browse/wiki/images/ExampleSvg.png
+
 = Bar =
 
 {{{
@@ -47,6 +49,8 @@ items.append(Duration('Item 4', date(2009, 5, 25), date(2009, 9, 27), '25%'))
 graph = Gantt(items)
 }}}
 
+http://code.google.com/p/svgplotlib/source/browse/wiki/images/ExampleGantt.png
+
 = Graph =
 
 {{{
@@ -66,6 +70,8 @@ graph.drawLines((0,10,20),(0,50,25), 'red')
 graph.drawLines((0,10,20),(10,25,50), 'blue', stroke_dasharray="5 5", stroke_width=3)
 }}}
 
+http://code.google.com/p/svgplotlib/source/browse/wiki/images/ExampleGraph.png
+
 = Pie =
 
 {{{
@@ -75,3 +81,5 @@ graph =Pie(
     labels = ('Cars', 'Boats', 'Planes'),
 )
 }}}
+
+http://code.google.com/p/svgplotlib/source/browse/wiki/images/ExamplePie.png
