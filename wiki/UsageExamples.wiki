@@ -18,6 +18,10 @@ svg.Line(x1 = 0, y1 = 0., x2 = 150., y2 = 150., parent = g, stroke='red')
 svg.TEX(r'$\sum_{i=0}^\infty x_i$', x = 1, y = 50)
 }}}
 
+http://code.google.com/p/svgplotlib/wiki/images/ExampleSVG.png
+
+http://code.google.com/p/svgplotlib/wiki/images/ExampleSVG.png
+
 = Bar =
 
 {{{
