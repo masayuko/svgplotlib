@@ -38,6 +38,8 @@ graph = Bar(
 
 http://svgplotlib.googlecode.com/svn/wiki/images/ExampleBar.png
 
+[http://svgplotlib.googlecode.com/svn/wiki/images/ExampleBar.svg ExampleBar.svg]
+
 = Gantt =
 
 {{{
@@ -51,7 +53,9 @@ items.append(Duration('Item 4', date(2009, 5, 25), date(2009, 9, 27), '25%'))
 graph = Gantt(items)
 }}}
 
-hhttp://svgplotlib.googlecode.com/svn/wiki/images/ExampleGantt.png
+http://svgplotlib.googlecode.com/svn/wiki/images/ExampleGantt.png
+
+[http://svgplotlib.googlecode.com/svn/wiki/images/ExampleGantt.svg ExampleGantt.svg]
 
 = Graph =
 
@@ -74,6 +78,8 @@ graph.drawLines((0,10,20),(10,25,50), 'blue', stroke_dasharray="5 5", stroke_wid
 
 http://svgplotlib.googlecode.com/svn/wiki/images/ExampleGraph.png
 
+[http://svgplotlib.googlecode.com/svn/wiki/images/ExampleGraph.svg ExampleGraph.svg]
+
 = Pie =
 
 {{{
@@ -85,3 +91,5 @@ graph =Pie(
 }}}
 
 http://svgplotlib.googlecode.com/svn/wiki/images/ExamplePie.png
+
+[http://svgplotlib.googlecode.com/svn/wiki/images/ExamplePie.svg ExamplePie.svg]
