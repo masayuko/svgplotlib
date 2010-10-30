@@ -20,7 +20,7 @@ svg.TEX(r'$\sum_{i=0}^\infty x_i$', x = 1, y = 50)
 
 http://svgplotlib.googlecode.com/svn/wiki/images/ExampleSvg.png
 
-http://svgplotlib.googlecode.com/svn/wiki/images/ExampleSvg.svg
+[http://svgplotlib.googlecode.com/svn/wiki/images/ExampleSvg.svg ExampleSvg.svg]
 
 = Bar =
 
