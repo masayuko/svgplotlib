@@ -1,0 +1,10 @@
+include README.txt
+include COPYING.txt
+include setup.py
+include MANIFEST.in
+
+include svgplotlib/svgplotlib.cfg
+include svgplotlib/@src/shivavg/COPYING
+include svgplotlib/@src/shivavg/SConstruct
+recursive-include svgplotlib *.py *.pyx *.pxd *.pxi *.c *.h
+recursive-include svgplotlib/fonts *.*
